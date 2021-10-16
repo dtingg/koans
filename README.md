@@ -13,16 +13,14 @@ Some koans simply need to have the correct answer substituted for an incorrect o
 ## Installing Ruby
 In order to run the koans you need Ruby installed. If you do not already have Ruby setup, please visit http://ruby-lang.org/en/downloads for operating system specific instructions.
 
-To verify your installation, in your terminal window simply type:  
-`$ ruby --version`   
+To verify your installation, in your terminal window simply type: `$ ruby --version`   
 
 Any response for Ruby with a version number greater than 1.8 is fine.
 
 ## The Path to Enlightenment
 You can run the tests by calling the path_to_enlightenment.rb file.
 
-In your terminal, while in the ruby_koans directory, type:
-`[ ruby_koans ] $ ruby path_to_enlightenment.rb`
+In your terminal, while in the ruby_koans directory, type: `[ ruby_koans ] $ ruby path_to_enlightenment.rb`
 
 ### Red, Green, Refactor
 In test-driven development (TDD) the mantra has always been red: write a failing test and run it, green: make the test pass, and refactor: look at the code and see if you can make it any better.
