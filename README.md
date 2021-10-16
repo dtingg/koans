@@ -1,6 +1,6 @@
 # Learn Ruby
 ### WITH THE EDGECASE RUBY KOANS
-<br>
+
 The Koans walk you along the path to enlightenment in order to learn Ruby. The goal is to learn the Ruby language, syntax, structure, and some common functions and libraries. We also teach you culture. Testing is not just something we pay lip service to, but something we live. It is essential in your quest to learn and do great things in the language.
 
 ## The Structure
@@ -15,13 +15,13 @@ In order to run the koans you need Ruby installed. If you do not already have Ru
 
 To verify your installation, in your terminal window simply type:  
 `$ ruby --version`   
+
 Any response for Ruby with a version number greater than 1.8 is fine.
 
 ## The Path to Enlightenment
 You can run the tests by calling the path_to_enlightenment.rb file.
 
 In your terminal, while in the ruby_koans directory, type:
-
 `[ ruby_koans ] $ ruby path_to_enlightenment.rb`
 
 ### Red, Green, Refactor
